@@ -73,3 +73,43 @@ Time: 11:11
 Group ID: ECWo66rKJkN8pEAvoqxQwN
 Message: mail
 --------------------
+Date: 7/11/2023
+Time: 12:25
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: Quedan 1 unidades de Estetoscopio allosun EM415 PRO VERIFICAR HABER PEDIDO ANTES PARA NO SUPERPONER EN FOB
+--------------------
+Date: 7/11/2023
+Time: 12:26
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: Quedan 0 unidades de OSCILOSCOPIO 2 canales CON MONITOR FNIRSI 1013D VERIFICAR HABER PEDIDO ANTES PARA NO SUPERPONER EN FOB
+--------------------
+Date: 7/11/2023
+Time: 12:36
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: Quedan 1 unidades de Estetoscopio allosun EM415 PRO VERIFICAR HABER PEDIDO ANTES PARA NO SUPERPONER EN FOB
+--------------------
+Date: 7/11/2023
+Time: 12:37
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: Quedan 0 unidades de OSCILOSCOPIO 2 canales CON MONITOR FNIRSI 1013D VERIFICAR HABER PEDIDO ANTES PARA NO SUPERPONER EN FOB
+--------------------
+Date: 7/11/2023
+Time: 12:38
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: Quedan 0 unidades de HANNA CUBETAS DE VIDRIO HI731321 (4u) colorímetro VERIFICAR HABER PEDIDO ANTES PARA NO SUPERPONER EN FOB
+--------------------
+Date: 7/11/2023
+Time: 12:39
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: Quedan 0 unidades de HANNA CUBETAS DE VIDRIO HI 731331 (4U) fotómetro VERIFICAR HABER PEDIDO ANTES PARA NO SUPERPONER EN FOB
+--------------------
+Date: 7/11/2023
+Time: 12:39
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: Quedan 0 unidades de Multimetro Pinza Amperometrica de Corriente Hantek CC65 VERIFICAR HABER PEDIDO ANTES PARA NO SUPERPONER EN FOB
+--------------------
+Date: 7/11/2023
+Time: 12:40
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: Quedan 0 unidades de Módulo controlador de cargas DSE 4510 VERIFICAR HABER PEDIDO ANTES PARA NO SUPERPONER EN FOB
+--------------------
