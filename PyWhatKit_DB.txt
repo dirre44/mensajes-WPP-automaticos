@@ -18,3 +18,58 @@ Time: 16:3
 Phone Number: +5491154193721
 Message: chino gil
 --------------------
+Date: 7/11/2023
+Time: 10:19
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: prueba
+--------------------
+Date: 7/11/2023
+Time: 10:20
+Phone Number: +5491154193721
+Message: chino gil
+--------------------
+Date: 7/11/2023
+Time: 10:20
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: prueba
+--------------------
+Date: 7/11/2023
+Time: 11:8
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: mail
+--------------------
+Date: 7/11/2023
+Time: 11:8
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: mail
+--------------------
+Date: 7/11/2023
+Time: 11:9
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: mail
+--------------------
+Date: 7/11/2023
+Time: 11:9
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: mail
+--------------------
+Date: 7/11/2023
+Time: 11:10
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: mail
+--------------------
+Date: 7/11/2023
+Time: 11:10
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: mail
+--------------------
+Date: 7/11/2023
+Time: 11:11
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: mail
+--------------------
+Date: 7/11/2023
+Time: 11:11
+Group ID: ECWo66rKJkN8pEAvoqxQwN
+Message: mail
+--------------------

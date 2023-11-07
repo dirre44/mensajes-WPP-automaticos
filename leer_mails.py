@@ -31,7 +31,7 @@ def leer_mails():
     #asunto_especifico='info'
 
     # Lee los correos electrónicos
-    results = service.users().messages().list(userId='me', labelIds=['INBOX'], q=f'is:unread').execute()
+    results = service.users().messages().list(userId='me', labelIds=['INBOX'], q=f'is:unread label:stock ').execute()
     messages = results.get('messages', [])
     lista_mails=[]
 
