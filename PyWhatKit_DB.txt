@@ -203,3 +203,73 @@ Time: 14:23
 Group ID: HScd4MqiFSJC1ujQymJFoW
 Message: comprar en FOB:Quedan 0 unidades de Módulo controlador de cargas DSE 4510 (STOCK)
 --------------------
+Date: 7/11/2023
+Time: 15:25
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Linterna Streamlight Survivor Negra (STOCK)
+--------------------
+Date: 7/11/2023
+Time: 15:26
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de LS140 DUROMETRO PARA METALES maleta azul (STOCK)
+--------------------
+Date: 7/11/2023
+Time: 15:26
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Kit cal check cloro libre y total Hanna HI97710-11 (STOCK)
+--------------------
+Date: 8/11/2023
+Time: 15:40
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Torquimetro Digital ANC-200MN (20 a 200 Nm) snc-200 znc (STOCK)
+--------------------
+Date: 8/11/2023
+Time: 15:40
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de HANNA AZUL DIST 4 EC/TDS HI 98304 (STOCK)
+--------------------
+Date: 8/11/2023
+Time: 15:41
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Medidor PH para Pan y Masa Hanna HI981038 (STOCK)
+--------------------
+Date: 8/11/2023
+Time: 17:4
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Lubricador (Forzado) Automatico 2 Litros (Bomba Incluida) / Seleccionar 2L (STOCK)
+--------------------
+Date: 8/11/2023
+Time: 17:4
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Lubricador (Forzado) Automatico 2 Litros (Bomba Incluida) / Seleccionar 2L (STOCK)
+--------------------
+Date: 8/11/2023
+Time: 17:5
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Lubricador (Forzado) Automatico 2 Litros (Bomba Incluida) / Seleccionar 1L (STOCK)
+--------------------
+Date: 8/11/2023
+Time: 17:6
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de THSINDE TH380 Termómetro infrarrojo, temperatura máxima: 380 °C (llega a 400°) (STOCK)
+--------------------
+Date: 8/11/2023
+Time: 17:6
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Turbidimetro portatil tb100 AMT27 1000 NTU Turbidímetro Portable TDS (STOCK)
+--------------------
+Date: 9/11/2023
+Time: 11:33
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Medidor de EC y Temp Suelos EC-315 (STOCK)
+--------------------
+Date: 9/11/2023
+Time: 11:34
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Medidor de EC y Temp Suelos EC-315 (STOCK)
+--------------------
+Date: 9/11/2023
+Time: 11:34
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de TABLERO AUTOSTART CONTROLLER DSE720 DS720 (STOCK)
+--------------------
