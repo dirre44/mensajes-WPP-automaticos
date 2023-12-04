@@ -273,3 +273,783 @@ Time: 11:34
 Group ID: HScd4MqiFSJC1ujQymJFoW
 Message: comprar en FOB:Quedan 0 unidades de TABLERO AUTOSTART CONTROLLER DSE720 DS720 (STOCK)
 --------------------
+Date: 9/11/2023
+Time: 15:57
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Detector 4 gases MULTIGAS AZUL MILESEEY (ALTERNATIVO) (STOCK)
+--------------------
+Date: 9/11/2023
+Time: 15:58
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Alcoscan Passive Alcohol tester (pasivo) (STOCK)
+--------------------
+Date: 9/11/2023
+Time: 15:58
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de FS2011 (STOCK)
+--------------------
+Date: 10/11/2023
+Time: 17:17
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Durómetro para gomas Shore D (STOCK)
+--------------------
+Date: 10/11/2023
+Time: 17:17
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Smart Sensor AS 1392 Medidor De Campo Electromaganetico (Reemplazo meterk) (STOCK)
+--------------------
+Date: 10/11/2023
+Time: 17:18
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Alcoholimetro Sin Contacto AT02 MIKICARE (STOCK)
+--------------------
+Date: 13/11/2023
+Time: 16:27
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Tacometro de contacto PROTMEX PT6208A (STOCK)
+--------------------
+Date: 13/11/2023
+Time: 16:27
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de MANOMETRO HTI HT1890 (STOCK)
+--------------------
+Date: 14/11/2023
+Time: 16:55
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Reactivos HI93706 fósforo Hanna (STOCK)
+--------------------
+Date: 14/11/2023
+Time: 16:55
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Lubricador (Forzado) Automatico 2 Litros (Bomba Incluida) / Seleccionar 1L (STOCK)
+--------------------
+Date: 14/11/2023
+Time: 16:56
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Osciloscopio FNIRSI 1014D (STOCK)
+--------------------
+Date: 14/11/2023
+Time: 16:56
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Alcoholimetro Contacto Boquilla Gypoirul (STOCK)
+--------------------
+Date: 15/11/2023
+Time: 17:21
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Reactivos de silicio Hanna HI770-25 (STOCK)
+--------------------
+Date: 15/11/2023
+Time: 17:22
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de MILWAUKEE REACTIVO CLORO TOTAL MI524-0 (stock x unidad)( una caja trae 100 unidades) (STOCK)
+--------------------
+Date: 15/11/2023
+Time: 17:22
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Kit analizador de dureza en agua Hanna modelo HI-3812 (STOCK)
+--------------------
+Date: 17/11/2023
+Time: 16:58
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de durometro shore c (STOCK)
+--------------------
+Date: 17/11/2023
+Time: 16:58
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Holulo Medidor de Humedad de pared TM200 (STOCK)
+--------------------
+Date: 22/11/2023
+Time: 17:5
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Temtop M2000C (STOCK)
+--------------------
+Date: 22/11/2023
+Time: 17:6
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Temtop M2000C (STOCK)
+--------------------
+Date: 22/11/2023
+Time: 17:6
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de SMART SENSOR AR600E MEDIDOR DE ALTURA DE CABLE (STOCK)
+--------------------
+Date: 22/11/2023
+Time: 17:7
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Probador de tensión de correa por infrarrojos BTT-2880S (STOCK)
+--------------------
+Date: 22/11/2023
+Time: 17:7
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Holdpeak HP 882A decibelímetro (STOCK)
+--------------------
+Date: 22/11/2023
+Time: 17:8
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Estetoscopio allosun EM415 PRO (STOCK)
+--------------------
+Date: 22/11/2023
+Time: 17:8
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Pinza Amperometrica AC / DC BT-605A (BT605A) (STOCK)
+--------------------
+Date: 22/11/2023
+Time: 17:9
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de durometro shore c (STOCK)
+--------------------
+Date: 22/11/2023
+Time: 17:9
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Holulo Medidor de Humedad de pared TM200 (STOCK)
+--------------------
+Date: 23/11/2023
+Time: 17:11
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Kit Test Hanna Cloro Libre (Rango Extendido) HI3831F (STOCK)
+--------------------
+Date: 23/11/2023
+Time: 17:12
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Electrodo hanna para HI98103 Modelo HI-1271 HI1271 (STOCK)
+--------------------
+Date: 23/11/2023
+Time: 17:12
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Solar power meter Tenmars Tm206 (STOCK)
+--------------------
+Date: 23/11/2023
+Time: 17:13
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Medidor Dureza AMTAST AMT212 (STOCK)
+--------------------
+Date: 23/11/2023
+Time: 17:13
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de UNI-T UT315A (STOCK)
+--------------------
+Date: 23/11/2023
+Time: 17:14
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de LS140 DUROMETRO PARA METALES maleta azul (STOCK)
+--------------------
+Date: 23/11/2023
+Time: 17:14
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de phase rotation tester sp8030 (STOCK)
+--------------------
+Date: 28/11/2023
+Time: 12:40
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de SMART SENSOR AR600E MEDIDOR DE ALTURA DE CABLE (STOCK)
+--------------------
+Date: 28/11/2023
+Time: 12:41
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Medidor PH para Pan y Masa Hanna HI981038 (STOCK)
+--------------------
+Date: 28/11/2023
+Time: 12:41
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Kit Test Hanna Cloro Libre (Rango Extendido) HI3831F (STOCK)
+--------------------
+Date: 28/11/2023
+Time: 12:42
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Tapas para cubetas de vidrio Hanna HI731225 colorímetro (STOCK)
+--------------------
+Date: 28/11/2023
+Time: 12:42
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de MILWAUKEE REACTIVO CLORO LIBRE MI526-0 (stock x unidad)(una caja trae 100 unidades (STOCK)
+--------------------
+Date: 28/11/2023
+Time: 12:43
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Probador de transistores FNIRSI TC1 (STOCK)
+--------------------
+Date: 28/11/2023
+Time: 12:43
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Control Remoto (12-24v) Inalambrico para Gruas 4 canales (HS4) (STOCK)
+--------------------
+Date: 28/11/2023
+Time: 12:44
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Osciloscopio 2 canales Hantek 6022BE (20 Mhz) (NIST certificate) (STOCK)
+--------------------
+Date: 28/11/2023
+Time: 17:4
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de MILWAUKEE MEDIDOR DE PH/EC/TDS/TEMP MW804 (STOCK)
+--------------------
+Date: 28/11/2023
+Time: 17:4
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Tubidimetro Portable NTU SGZ-200BS (WGZ1B) newtry (STOCK)
+--------------------
+Date: 28/11/2023
+Time: 17:5
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Detector RF señales Señal Anti Espia Camara K20 (STOCK)
+--------------------
+Date: 28/11/2023
+Time: 17:5
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de EZ-9909 PH EC TDS salinidad (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:8
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Nextech DFS1000 Dinamómetro 1000N DFS 1000 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:9
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:9
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:10
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:10
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Pinza Amperometrica AC / DC BT-605A (BT605A) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:10
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Pinza Amperometrica AC / DC BT-605A (BT605A) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:11
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Torquimetro digital WWJ-200 1/2 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:11
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Torquimetro digital WWJ-200 1/2 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:12
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Torquimetro KOEORWS 60-04340 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:12
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Torquimetro KOEORWS 60-04340 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:13
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Torquimetro Digital ANC-200MN (20 a 200 Nm) snc-200 znc (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:13
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Torquimetro Digital ANC-200MN (20 a 200 Nm) snc-200 znc (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:14
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Torquimetro digital SHAHE AWJ2-0010(1-4) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:14
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Torquimetro digital SHAHE AWJ2-0010(1-4) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:15
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Detector de ozono smart sensor as8808 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:15
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Detector de ozono smart sensor as8808 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:16
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Detector de monoxido de carbono AS8807 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:16
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Detector de monoxido de carbono AS8807 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:17
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Detector Gas Bosean BH4A (Sin memoria ni histograma de datos) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:17
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de decibelimetro B&K Precision 732A (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:18
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de decibelimetro B&K Precision 732A (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:18
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Alcoholimetro Contacto Boquilla Gypoirul (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:18
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Alcoholimetro Contacto Boquilla Gypoirul (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:19
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Alcoholimetro Sin Contacto AT02 MIKICARE (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:19
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Alcoholimetro Sin Contacto AT02 MIKICARE (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:20
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Termoanemometro Holdpeak HP816B (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:20
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Termoanemometro Holdpeak HP816B (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:21
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Solución de calibración de Turbidez (20 NTU) Hanna HI93102-20 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:21
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Solución de calibración de Turbidez (20 NTU) Hanna HI93102-20 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:22
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Solución de calibración de Turbidez (0 NTU) Hanna HI93102-0 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:22
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Solución de calibración de Turbidez (0 NTU) Hanna HI93102-0 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:23
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Solucion Almacenamiento de electrodos PH/ORP Hanna HI70300M (230ml) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:23
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Solucion Almacenamiento de electrodos PH/ORP Hanna HI70300M (230ml) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:24
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Kit cal check cloro libre y total Hanna HI97710-11 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:24
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Kit cal check cloro libre y total Hanna HI97710-11 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:25
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Kit de Prueba para Sulfito HI3822 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:25
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Kit de Prueba para Sulfito HI3822 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:26
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Reactivos de silicio Hanna HI770-25 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:26
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Set De Calibracion Silica (Oxido de Silicio) HI770-11 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:27
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Reactivos de silicio Hanna HI770-25 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:27
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Set De Calibracion Silica (Oxido de Silicio) HI770-11 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:28
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de HANNA REACTIVO standard cal check para cloro libre HI96701-11 (stock x caja) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:28
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de HANNA REACTIVO standard cal check para cloro libre HI96701-11 (stock x caja) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:29
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Reactivos HI93706 fósforo Hanna (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:29
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Reactivo Clorina Total Hanna HI771-25 (Ractivos A y B) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:30
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de HANNA REACTIVO FOSFORO HI 706-25 SET (la caja trae: 40u HI706B-0 + 2u HI706AS) (stock x caja) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:30
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de HANNA REACTIVO FOSFORO HI 706-25 SET (la caja trae: 40u HI706B-0 + 2u HI706AS) (stock x caja) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:31
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de HANNA REACTIVO CLORO TOTAL HI727-11 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:31
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de HANNA REACTIVO CLORO TOTAL HI727-11 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:32
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Kit Test Hanna Cloro Libre (Rango Extendido) HI3831F (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:32
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Kit Test Hanna Cloro Libre (Rango Extendido) HI3831F (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:33
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de MILWAUKEE REACTIVO CLORO LIBRE MI526-0 (stock x unidad)(una caja trae 100 unidades (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:33
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de MILWAUKEE REACTIVO CLORO LIBRE MI526-0 (stock x unidad)(una caja trae 100 unidades (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:34
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de MILWAUKEE REACTIVO CLORO TOTAL MI524-0 (stock x unidad)( una caja trae 100 unidades) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:34
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de atlas scientific mini lab dissolved oxygen probe (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:35
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de atlas scientific mini lab dissolved oxygen probe (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:35
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de AMT27 1000 NTU Turbidímetro Portable TDS (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:36
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de AMT27 1000 NTU Turbidímetro Portable TDS (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:36
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de TES 1381 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:37
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de TES 1381 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:37
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Medidor de EC y Temp Suelos EC-315 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:38
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Medidor de EC y Temp Suelos EC-315 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:38
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de PH803 Monitor Controladora de PH y ORP (Redox) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:39
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de PH803 Monitor Controladora de PH y ORP (Redox) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:39
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de APERA INSTRUMENTS PH60Z Agua (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:40
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de APERA INSTRUMENTS PH60Z Agua (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:40
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Turbidimetro portatil tb100 AMT27 1000 NTU Turbidímetro Portable TDS (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:41
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Turbidimetro portatil tb100 AMT27 1000 NTU Turbidímetro Portable TDS (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:41
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Tubidimetro Portable NTU SGZ-200BS (WGZ1B) newtry (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:42
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Tubidimetro Portable NTU SGZ-200BS (WGZ1B) newtry (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:42
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Monitor EC Mc310 Pro (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:42
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de MILWAUKEE REFRACTOMETRO DE AZUCAR MA871 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:43
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de MILWAUKEE REFRACTOMETRO DE AZUCAR MA871 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:43
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de TYS-B - Medidor de Clorofila, Portátil, Para Pruebas (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:44
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de TYS-B - Medidor de Clorofila, Portátil, Para Pruebas (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:44
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de HANNA AZUL DIST 4 EC/TDS HI 98304 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:45
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de HANNA AZUL DIST 4 EC/TDS HI 98304 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:45
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de HANNA PORTABLE PH/EC/TDS/TEMP HI 991300 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:46
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de HANNA PORTABLE PH/EC/TDS/TEMP HI 991300 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:46
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Kit analizador de dureza en agua Hanna modelo HI-3812 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:47
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Medidor PH para Pan y Masa Hanna HI981038 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:47
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de HANNA CUBETAS DE VIDRIO HI 731331 (4U) fotómetro (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:48
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de HANNA CUBETAS DE VIDRIO HI 731331 (4U) fotómetro (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:48
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de HANNA CUBETAS DE VIDRIO HI731321 (4u) colorímetro (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:49
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Tapas para cubetas de vidrio Hanna HI731225 colorímetro (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:49
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de LAQUATWIN MEDIDOR DE CONDUCTIVIDAD EC 11 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:50
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de LAQUATWIN MEDIDOR DE CONDUCTIVIDAD EC 11 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:50
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de MILWAUKEE MEDIDOR DE PH/EC/TDS/TEMP MW804 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:51
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de MILWAUKEE MEDIDOR DE PH/EC/TDS/TEMP MW804 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:51
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de MILWAUKEE EC-60 EC60 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:52
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de MILWAUKEE EC-60 EC60 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:52
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Kestrel 3000 Weather Meter (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:52
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Kestrel 3000 Weather Meter (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:53
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de FLIR TG 267 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:53
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de FLIR C5 Tecnologia MSX (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:54
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de FLIR C3 (1 sin caja ni cargador ni accesorios) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:54
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de FLIR C5 Tecnologia MSX (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:55
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de FLIR C3 (1 sin caja ni cargador ni accesorios) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:55
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de e8XT MALETIN GRANDE (HAY Q REGISTRARLA VER CLIENTE) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 13:56
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de e8XT MALETIN GRANDE (HAY Q REGISTRARLA VER CLIENTE) (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 16:38
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Medidor PH para Solidos Rcyago YY-1030 (STOCK)
+--------------------
+Date: 29/11/2023
+Time: 16:39
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Luxometro tes 1330 (STOCK)
+--------------------
+Date: 30/11/2023
+Time: 17:9
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de TESLONG MS450 8mm / 15 METROS DUAL LENS (STOCK)
+--------------------
+Date: 30/11/2023
+Time: 17:10
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Medidor de Pintura Generico Wintact WT2110 (STOCK)
+--------------------
+Date: 30/11/2023
+Time: 17:10
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Luster Leaf 1818 analizador de suelo (SKU: 20163) (STOCK)
+--------------------
+Date: 30/11/2023
+Time: 17:11
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de REED 4 en 1 LM8000 (SKU 10060) (STOCK)
+--------------------
+Date: 30/11/2023
+Time: 17:11
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Kit Auxilio Cambio De Neumáticos 3 Toneladas 12v Gato (STOCK)
+--------------------
+Date: 1/12/2023
+Time: 16:59
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de Tacometro sin contacto PROTMEX PT6208B (STOCK)
+--------------------
+Date: 4/12/2023
+Time: 16:59
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 1 unidades de HANNA AZUL DIST 6 EC/TDS/TEMP HI98312 (STOCK)
+--------------------
+Date: 4/12/2023
+Time: 16:59
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de HANNA REACTIVO CLORO TOTAL HI727-11 (STOCK)
+--------------------
+Date: 4/12/2023
+Time: 17:0
+Group ID: HScd4MqiFSJC1ujQymJFoW
+Message: comprar en FOB:Quedan 0 unidades de Radar Velocidad Deprortivo Netplay (Libre Manos) (STOCK)
+--------------------

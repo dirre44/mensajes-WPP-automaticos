@@ -27,10 +27,8 @@ for mail in lista_mensajes:
     elif seleccion.upper() == "N":
         division_mensajes["no_enviar"].append(mail)
     else:
-        # en realidad no se que deberia hacer en esta situacion, un continue??
+        # en realidad no se que deberia hacer en esta situacion, un continue??54545454
         break
-
-print (division_mensajes)
 
 for mail in division_mensajes["enviar"]:
 
